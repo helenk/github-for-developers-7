@@ -1,0 +1,4 @@
+-  Name: Helen
+-  City: Oslo
+-  Food: Pizza
+-  Hobby Skiing
