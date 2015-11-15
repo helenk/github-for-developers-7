@@ -2,4 +2,4 @@
 -  City: Oslo
 -  Food: Pizza
 -  Hobby: Skiing
--  Color: Red
+-  Favourite Color: Red
