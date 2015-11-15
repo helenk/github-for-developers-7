@@ -1,0 +1,5 @@
+-  Name: Helen
+-  City: Oslo
+-  Food: Pizza
+-  Hobby: Skiing
+-  Favourite Color: Red
