@@ -3,3 +3,4 @@
 -  Food: Pizza
 -  Hobby: Skiing
 -  Favourite Color: Red
+-  Occupation: IT-developer
